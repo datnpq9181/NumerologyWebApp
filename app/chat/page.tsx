@@ -127,7 +127,7 @@ export default function Chat() {
                      autoFocus
                      pr="3rem"
                      size={{ md: "lg", xs: "md" }}
-                     placeholder="Dương Văn Nghĩa sinh 11 - 06 - 1976 ..."
+                     placeholder="Nguyễn Phạm Quốc Đạt sinh 29 - 09 - 1994 ..."
                      borderRadius={30}
                      value={input}
                      onChange={handleInputChange}
